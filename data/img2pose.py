@@ -1,0 +1,1 @@
+# TODO: A script to generate pose images for all given images

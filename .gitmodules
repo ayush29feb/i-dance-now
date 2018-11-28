@@ -1,0 +1,3 @@
+[submodule "pix2pixhd"]
+	path = pix2pixhd
+	url = https://github.com/NVIDIA/pix2pixHD.git
